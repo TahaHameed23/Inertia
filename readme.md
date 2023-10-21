@@ -6,7 +6,6 @@ To setup the project
 
 1. Clone the repo/download zip
 2. In the root folder, run:
-    - `npm init`
     -  `npm i`
 
 Check out the library [here](https://daisyui.com)
