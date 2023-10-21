@@ -1,4 +1,4 @@
-## This a website using Daisy UI
+## This a website using DaisyUI
 
 # Setup
 
