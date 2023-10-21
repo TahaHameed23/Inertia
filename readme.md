@@ -1,4 +1,6 @@
-## This a website using DaisyUI
+## This is a website using DaisyUI
+
+A component library for tailwindcss.
 
 ### Setup
 
