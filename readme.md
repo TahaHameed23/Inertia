@@ -1,6 +1,6 @@
 ## This a website using DaisyUI
 
-# Setup
+### Setup
 
 To setup the project
 
