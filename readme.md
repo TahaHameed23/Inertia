@@ -9,6 +9,6 @@ To setup the project
     - `npm init`
     -  `npm i`
 
-Check out the library !(https://daisyui.com)[here]
+Check out the library [here](https://daisyui.com)
 
 
